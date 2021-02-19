@@ -1,7 +1,7 @@
 # Dont-Cross-the-line-game
 
 Don’t cross the line is a two player mini game GTA 5 developed using C programming. It also has
-some basic graphics added to it so as to make the game more intriguing.
+some basic graphics added to it so as to make the game more intriguing. It is a team project of three members in total.
  
 # About
 
